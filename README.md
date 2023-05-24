@@ -1,2 +1,3 @@
 # County-Business-Patterns-Analysis
-Exploring the Employment and Earning Patterns in the Business Industries in the US on a State Level
+Exploring the Employment and Earning Patterns in the Business Industries in the US on a State Level using an R Shiny App
+
